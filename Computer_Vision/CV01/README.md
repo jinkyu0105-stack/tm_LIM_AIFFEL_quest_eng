@@ -28,7 +28,8 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        - <img width="665" height="372" alt="image" src="https://github.com/user-attachments/assets/e025d6a0-229b-4e47-a7c2-dbda12d8f381" />
+        - <img width="451" height="752" alt="image" src="https://github.com/user-attachments/assets/83e2687a-e98d-4db8-a34a-08d87c2eb26f" />
+
 
         
 - [x]  **4. 회고를 잘 작성했나요?**
